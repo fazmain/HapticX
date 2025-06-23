@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Test and coverage outputs
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Caches
+__pypackages__/
+*.log
+
+# Input video file
+input.mp4
+input2.mp4
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Local environment variables
+.env
+.env.*
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Profiling data
+.prof
+
+# System files
+Thumbs.db 

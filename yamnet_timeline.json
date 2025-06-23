@@ -1,0 +1,1317 @@
+[
+  {
+    "time": 0.0,
+    "label": "Music",
+    "confidence": 0.7684264183044434
+  },
+  {
+    "time": 0.5,
+    "label": "Music",
+    "confidence": 0.9201416969299316
+  },
+  {
+    "time": 1.0,
+    "label": "Music",
+    "confidence": 0.616358757019043
+  },
+  {
+    "time": 1.5,
+    "label": "Music",
+    "confidence": 0.26848259568214417
+  },
+  {
+    "time": 2.0,
+    "label": "Music",
+    "confidence": 0.4988173842430115
+  },
+  {
+    "time": 2.5,
+    "label": "Wind",
+    "confidence": 0.1573261320590973
+  },
+  {
+    "time": 3.0,
+    "label": "Artillery fire",
+    "confidence": 0.20842605829238892
+  },
+  {
+    "time": 3.5,
+    "label": "Music",
+    "confidence": 0.558721125125885
+  },
+  {
+    "time": 4.0,
+    "label": "Music",
+    "confidence": 0.6223810911178589
+  },
+  {
+    "time": 4.5,
+    "label": "Music",
+    "confidence": 0.8363593816757202
+  },
+  {
+    "time": 5.0,
+    "label": "Music",
+    "confidence": 0.9318381547927856
+  },
+  {
+    "time": 5.5,
+    "label": "Music",
+    "confidence": 0.7383026480674744
+  },
+  {
+    "time": 6.0,
+    "label": "Music",
+    "confidence": 0.4229917824268341
+  },
+  {
+    "time": 6.5,
+    "label": "Music",
+    "confidence": 0.22171571850776672
+  },
+  {
+    "time": 7.0,
+    "label": "Speech",
+    "confidence": 0.7672119736671448
+  },
+  {
+    "time": 7.5,
+    "label": "Speech",
+    "confidence": 0.936142086982727
+  },
+  {
+    "time": 8.0,
+    "label": "Speech",
+    "confidence": 0.9121803045272827
+  },
+  {
+    "time": 8.5,
+    "label": "Speech",
+    "confidence": 0.9425783157348633
+  },
+  {
+    "time": 9.0,
+    "label": "Speech",
+    "confidence": 0.2650197744369507
+  },
+  {
+    "time": 9.5,
+    "label": "Vehicle",
+    "confidence": 0.11625968664884567
+  },
+  {
+    "time": 10.0,
+    "label": "Vehicle",
+    "confidence": 0.1991690993309021
+  },
+  {
+    "time": 10.5,
+    "label": "Vehicle",
+    "confidence": 0.49475693702697754
+  },
+  {
+    "time": 11.0,
+    "label": "Speech",
+    "confidence": 0.3198217749595642
+  },
+  {
+    "time": 11.5,
+    "label": "Speech",
+    "confidence": 0.4001396596431732
+  },
+  {
+    "time": 12.0,
+    "label": "Speech",
+    "confidence": 0.1848815381526947
+  },
+  {
+    "time": 12.5,
+    "label": "Vehicle",
+    "confidence": 0.3606109619140625
+  },
+  {
+    "time": 13.0,
+    "label": "Vehicle",
+    "confidence": 0.09076619148254395
+  },
+  {
+    "time": 13.5,
+    "label": "Speech",
+    "confidence": 0.9883368015289307
+  },
+  {
+    "time": 14.0,
+    "label": "Speech",
+    "confidence": 0.9654984474182129
+  },
+  {
+    "time": 14.5,
+    "label": "Speech",
+    "confidence": 0.9770486950874329
+  },
+  {
+    "time": 15.0,
+    "label": "Speech",
+    "confidence": 0.987814724445343
+  },
+  {
+    "time": 15.5,
+    "label": "Speech",
+    "confidence": 0.5267172455787659
+  },
+  {
+    "time": 16.0,
+    "label": "Speech",
+    "confidence": 0.9344239234924316
+  },
+  {
+    "time": 16.5,
+    "label": "Speech",
+    "confidence": 0.9968794584274292
+  },
+  {
+    "time": 17.0,
+    "label": "Speech",
+    "confidence": 0.9752486348152161
+  },
+  {
+    "time": 17.5,
+    "label": "Speech",
+    "confidence": 0.9951504468917847
+  },
+  {
+    "time": 18.0,
+    "label": "Speech",
+    "confidence": 0.9923492670059204
+  },
+  {
+    "time": 18.5,
+    "label": "Speech",
+    "confidence": 0.9788120985031128
+  },
+  {
+    "time": 19.0,
+    "label": "Speech",
+    "confidence": 0.9809086322784424
+  },
+  {
+    "time": 19.5,
+    "label": "Speech",
+    "confidence": 0.3185819387435913
+  },
+  {
+    "time": 20.0,
+    "label": "Boom",
+    "confidence": 0.48273152112960815
+  },
+  {
+    "time": 20.5,
+    "label": "Boom",
+    "confidence": 0.21697428822517395
+  },
+  {
+    "time": 21.0,
+    "label": "Vehicle",
+    "confidence": 0.3036639094352722
+  },
+  {
+    "time": 21.5,
+    "label": "Vehicle",
+    "confidence": 0.38638588786125183
+  },
+  {
+    "time": 22.0,
+    "label": "Vehicle",
+    "confidence": 0.3029048442840576
+  },
+  {
+    "time": 22.5,
+    "label": "Vehicle",
+    "confidence": 0.29639947414398193
+  },
+  {
+    "time": 23.0,
+    "label": "Ocean",
+    "confidence": 0.5267770290374756
+  },
+  {
+    "time": 23.5,
+    "label": "Burst, pop",
+    "confidence": 0.17653432488441467
+  },
+  {
+    "time": 24.0,
+    "label": "Speech",
+    "confidence": 0.960971474647522
+  },
+  {
+    "time": 24.5,
+    "label": "Speech",
+    "confidence": 0.9292330145835876
+  },
+  {
+    "time": 25.0,
+    "label": "Speech",
+    "confidence": 0.9571537375450134
+  },
+  {
+    "time": 25.5,
+    "label": "Speech",
+    "confidence": 0.4958503544330597
+  },
+  {
+    "time": 26.0,
+    "label": "Speech",
+    "confidence": 0.9764822721481323
+  },
+  {
+    "time": 26.5,
+    "label": "Speech",
+    "confidence": 0.9772124290466309
+  },
+  {
+    "time": 27.0,
+    "label": "Speech",
+    "confidence": 0.9166485071182251
+  },
+  {
+    "time": 27.5,
+    "label": "Speech",
+    "confidence": 0.9509173631668091
+  },
+  {
+    "time": 28.0,
+    "label": "Speech",
+    "confidence": 0.971004068851471
+  },
+  {
+    "time": 28.5,
+    "label": "Speech",
+    "confidence": 0.9600578546524048
+  },
+  {
+    "time": 29.0,
+    "label": "Speech",
+    "confidence": 0.9685937166213989
+  },
+  {
+    "time": 29.5,
+    "label": "Speech",
+    "confidence": 0.8723322153091431
+  },
+  {
+    "time": 30.0,
+    "label": "Speech",
+    "confidence": 0.4160195291042328
+  },
+  {
+    "time": 30.5,
+    "label": "Vehicle",
+    "confidence": 0.26531654596328735
+  },
+  {
+    "time": 31.0,
+    "label": "Vehicle",
+    "confidence": 0.5052928328514099
+  },
+  {
+    "time": 31.5,
+    "label": "Vehicle",
+    "confidence": 0.3808794915676117
+  },
+  {
+    "time": 32.0,
+    "label": "Aircraft",
+    "confidence": 0.3536387085914612
+  },
+  {
+    "time": 32.5,
+    "label": "Speech",
+    "confidence": 0.26083576679229736
+  },
+  {
+    "time": 33.0,
+    "label": "Vehicle",
+    "confidence": 0.21014787256717682
+  },
+  {
+    "time": 33.5,
+    "label": "Slosh",
+    "confidence": 0.25503405928611755
+  },
+  {
+    "time": 34.0,
+    "label": "Glass",
+    "confidence": 0.28168362379074097
+  },
+  {
+    "time": 34.5,
+    "label": "Ocean",
+    "confidence": 0.27677303552627563
+  },
+  {
+    "time": 35.0,
+    "label": "Ocean",
+    "confidence": 0.28876593708992004
+  },
+  {
+    "time": 35.5,
+    "label": "Bus",
+    "confidence": 0.11912229657173157
+  },
+  {
+    "time": 36.0,
+    "label": "Vehicle",
+    "confidence": 0.1566334366798401
+  },
+  {
+    "time": 36.5,
+    "label": "Vehicle",
+    "confidence": 0.43850409984588623
+  },
+  {
+    "time": 37.0,
+    "label": "Vehicle",
+    "confidence": 0.6499243378639221
+  },
+  {
+    "time": 37.5,
+    "label": "Vehicle",
+    "confidence": 0.5935298204421997
+  },
+  {
+    "time": 38.0,
+    "label": "Music",
+    "confidence": 0.4574163556098938
+  },
+  {
+    "time": 38.5,
+    "label": "Music",
+    "confidence": 0.46832388639450073
+  },
+  {
+    "time": 39.0,
+    "label": "Music",
+    "confidence": 0.7519429922103882
+  },
+  {
+    "time": 39.5,
+    "label": "Music",
+    "confidence": 0.4816265106201172
+  },
+  {
+    "time": 40.0,
+    "label": "Vehicle",
+    "confidence": 0.2850424647331238
+  },
+  {
+    "time": 40.5,
+    "label": "Vehicle",
+    "confidence": 0.21660055220127106
+  },
+  {
+    "time": 41.0,
+    "label": "Speech",
+    "confidence": 0.0616079643368721
+  },
+  {
+    "time": 41.5,
+    "label": "Ambulance (siren)",
+    "confidence": 0.1948954463005066
+  },
+  {
+    "time": 42.0,
+    "label": "Emergency vehicle",
+    "confidence": 0.32460811734199524
+  },
+  {
+    "time": 42.5,
+    "label": "Vehicle",
+    "confidence": 0.231049045920372
+  },
+  {
+    "time": 43.0,
+    "label": "Speech",
+    "confidence": 0.8989629149436951
+  },
+  {
+    "time": 43.5,
+    "label": "Speech",
+    "confidence": 0.9867775440216064
+  },
+  {
+    "time": 44.0,
+    "label": "Speech",
+    "confidence": 0.9384201765060425
+  },
+  {
+    "time": 44.5,
+    "label": "Speech",
+    "confidence": 0.9840357303619385
+  },
+  {
+    "time": 45.0,
+    "label": "Speech",
+    "confidence": 0.9853894710540771
+  },
+  {
+    "time": 45.5,
+    "label": "Speech",
+    "confidence": 0.9834386110305786
+  },
+  {
+    "time": 46.0,
+    "label": "Speech",
+    "confidence": 0.5024279952049255
+  },
+  {
+    "time": 46.5,
+    "label": "Speech",
+    "confidence": 0.9788866639137268
+  },
+  {
+    "time": 47.0,
+    "label": "Speech",
+    "confidence": 0.9969001412391663
+  },
+  {
+    "time": 47.5,
+    "label": "Speech",
+    "confidence": 0.6922016739845276
+  },
+  {
+    "time": 48.0,
+    "label": "Speech",
+    "confidence": 0.24471096694469452
+  },
+  {
+    "time": 48.5,
+    "label": "Silence",
+    "confidence": 0.15121987462043762
+  },
+  {
+    "time": 49.0,
+    "label": "Speech",
+    "confidence": 0.9883742332458496
+  },
+  {
+    "time": 49.5,
+    "label": "Speech",
+    "confidence": 0.9622191190719604
+  },
+  {
+    "time": 50.0,
+    "label": "Speech",
+    "confidence": 0.5827224850654602
+  },
+  {
+    "time": 50.5,
+    "label": "Speech",
+    "confidence": 0.22830858826637268
+  },
+  {
+    "time": 51.0,
+    "label": "Music",
+    "confidence": 0.32276588678359985
+  },
+  {
+    "time": 51.5,
+    "label": "Speech",
+    "confidence": 0.9875668287277222
+  },
+  {
+    "time": 52.0,
+    "label": "Speech",
+    "confidence": 0.9842042922973633
+  },
+  {
+    "time": 52.5,
+    "label": "Speech",
+    "confidence": 0.5043128132820129
+  },
+  {
+    "time": 53.0,
+    "label": "Heart sounds, heartbeat",
+    "confidence": 0.3424707055091858
+  },
+  {
+    "time": 53.5,
+    "label": "Music",
+    "confidence": 0.389984667301178
+  },
+  {
+    "time": 54.0,
+    "label": "Music",
+    "confidence": 0.7650707960128784
+  },
+  {
+    "time": 54.5,
+    "label": "Music",
+    "confidence": 0.6532408595085144
+  },
+  {
+    "time": 55.0,
+    "label": "Music",
+    "confidence": 0.46214282512664795
+  },
+  {
+    "time": 55.5,
+    "label": "Speech",
+    "confidence": 0.4817503094673157
+  },
+  {
+    "time": 56.0,
+    "label": "Speech",
+    "confidence": 0.9880574345588684
+  },
+  {
+    "time": 56.5,
+    "label": "Speech",
+    "confidence": 0.9954651594161987
+  },
+  {
+    "time": 57.0,
+    "label": "Speech",
+    "confidence": 0.49081286787986755
+  },
+  {
+    "time": 57.5,
+    "label": "Explosion",
+    "confidence": 0.3042781949043274
+  },
+  {
+    "time": 58.0,
+    "label": "Explosion",
+    "confidence": 0.3103629946708679
+  },
+  {
+    "time": 58.5,
+    "label": "Boom",
+    "confidence": 0.10261207073926926
+  },
+  {
+    "time": 59.0,
+    "label": "Vehicle",
+    "confidence": 0.21255967020988464
+  },
+  {
+    "time": 59.5,
+    "label": "Vehicle",
+    "confidence": 0.4627726078033447
+  },
+  {
+    "time": 60.0,
+    "label": "Vehicle",
+    "confidence": 0.5190151333808899
+  },
+  {
+    "time": 60.5,
+    "label": "Vehicle",
+    "confidence": 0.32521018385887146
+  },
+  {
+    "time": 61.0,
+    "label": "Vehicle",
+    "confidence": 0.6988258361816406
+  },
+  {
+    "time": 61.5,
+    "label": "Vehicle",
+    "confidence": 0.3624013364315033
+  },
+  {
+    "time": 62.0,
+    "label": "Vehicle",
+    "confidence": 0.6496756672859192
+  },
+  {
+    "time": 62.5,
+    "label": "Vehicle",
+    "confidence": 0.5137735605239868
+  },
+  {
+    "time": 63.0,
+    "label": "Vehicle",
+    "confidence": 0.6409921646118164
+  },
+  {
+    "time": 63.5,
+    "label": "Vehicle",
+    "confidence": 0.5560474991798401
+  },
+  {
+    "time": 64.0,
+    "label": "Vehicle",
+    "confidence": 0.32554465532302856
+  },
+  {
+    "time": 64.5,
+    "label": "Water",
+    "confidence": 0.21769534051418304
+  },
+  {
+    "time": 65.0,
+    "label": "Ocean",
+    "confidence": 0.49741506576538086
+  },
+  {
+    "time": 65.5,
+    "label": "Vehicle",
+    "confidence": 0.3014976382255554
+  },
+  {
+    "time": 66.0,
+    "label": "Vehicle",
+    "confidence": 0.704460084438324
+  },
+  {
+    "time": 66.5,
+    "label": "Vehicle",
+    "confidence": 0.6874152421951294
+  },
+  {
+    "time": 67.0,
+    "label": "Vehicle",
+    "confidence": 0.11546224355697632
+  },
+  {
+    "time": 67.5,
+    "label": "Water",
+    "confidence": 0.1604965180158615
+  },
+  {
+    "time": 68.0,
+    "label": "Vehicle",
+    "confidence": 0.2874995172023773
+  },
+  {
+    "time": 68.5,
+    "label": "Speech",
+    "confidence": 0.16113893687725067
+  },
+  {
+    "time": 69.0,
+    "label": "Music",
+    "confidence": 0.15818235278129578
+  },
+  {
+    "time": 69.5,
+    "label": "Music",
+    "confidence": 0.6149469614028931
+  },
+  {
+    "time": 70.0,
+    "label": "Music",
+    "confidence": 0.9470014572143555
+  },
+  {
+    "time": 70.5,
+    "label": "Music",
+    "confidence": 0.9359399080276489
+  },
+  {
+    "time": 71.0,
+    "label": "Music",
+    "confidence": 0.9846282005310059
+  },
+  {
+    "time": 71.5,
+    "label": "Music",
+    "confidence": 0.9732675552368164
+  },
+  {
+    "time": 72.0,
+    "label": "Music",
+    "confidence": 0.9307547211647034
+  },
+  {
+    "time": 72.5,
+    "label": "Music",
+    "confidence": 0.7958173751831055
+  },
+  {
+    "time": 73.0,
+    "label": "Music",
+    "confidence": 0.9742262363433838
+  },
+  {
+    "time": 73.5,
+    "label": "Music",
+    "confidence": 0.9224520921707153
+  },
+  {
+    "time": 74.0,
+    "label": "Music",
+    "confidence": 0.949622392654419
+  },
+  {
+    "time": 74.5,
+    "label": "Music",
+    "confidence": 0.952336847782135
+  },
+  {
+    "time": 75.0,
+    "label": "Music",
+    "confidence": 0.9409586191177368
+  },
+  {
+    "time": 75.5,
+    "label": "Music",
+    "confidence": 0.9780212640762329
+  },
+  {
+    "time": 76.0,
+    "label": "Music",
+    "confidence": 0.955430269241333
+  },
+  {
+    "time": 76.5,
+    "label": "Music",
+    "confidence": 0.9696532487869263
+  },
+  {
+    "time": 77.0,
+    "label": "Music",
+    "confidence": 0.9779843688011169
+  },
+  {
+    "time": 77.5,
+    "label": "Music",
+    "confidence": 0.9144136309623718
+  },
+  {
+    "time": 78.0,
+    "label": "Music",
+    "confidence": 0.9265210628509521
+  },
+  {
+    "time": 78.5,
+    "label": "Music",
+    "confidence": 0.9850147366523743
+  },
+  {
+    "time": 79.0,
+    "label": "Music",
+    "confidence": 0.47582942247390747
+  },
+  {
+    "time": 79.5,
+    "label": "Vehicle",
+    "confidence": 0.3535318374633789
+  },
+  {
+    "time": 80.0,
+    "label": "Music",
+    "confidence": 0.24157026410102844
+  },
+  {
+    "time": 80.5,
+    "label": "Music",
+    "confidence": 0.419358491897583
+  },
+  {
+    "time": 81.0,
+    "label": "Music",
+    "confidence": 0.3244733214378357
+  },
+  {
+    "time": 81.5,
+    "label": "Music",
+    "confidence": 0.36718225479125977
+  },
+  {
+    "time": 82.0,
+    "label": "Vehicle",
+    "confidence": 0.22293081879615784
+  },
+  {
+    "time": 82.5,
+    "label": "Vehicle",
+    "confidence": 0.26550987362861633
+  },
+  {
+    "time": 83.0,
+    "label": "Music",
+    "confidence": 0.24210847914218903
+  },
+  {
+    "time": 83.5,
+    "label": "Music",
+    "confidence": 0.09688766300678253
+  },
+  {
+    "time": 84.0,
+    "label": "Music",
+    "confidence": 0.4285467863082886
+  },
+  {
+    "time": 84.5,
+    "label": "Music",
+    "confidence": 0.15063488483428955
+  },
+  {
+    "time": 85.0,
+    "label": "Music",
+    "confidence": 0.5060508251190186
+  },
+  {
+    "time": 85.5,
+    "label": "Music",
+    "confidence": 0.42297518253326416
+  },
+  {
+    "time": 86.0,
+    "label": "Music",
+    "confidence": 0.7773628830909729
+  },
+  {
+    "time": 86.5,
+    "label": "Music",
+    "confidence": 0.9558631181716919
+  },
+  {
+    "time": 87.0,
+    "label": "Music",
+    "confidence": 0.6573454737663269
+  },
+  {
+    "time": 87.5,
+    "label": "Music",
+    "confidence": 0.3532886803150177
+  },
+  {
+    "time": 88.0,
+    "label": "Music",
+    "confidence": 0.09980722516775131
+  },
+  {
+    "time": 88.5,
+    "label": "Gunshot, gunfire",
+    "confidence": 0.1629304736852646
+  },
+  {
+    "time": 89.0,
+    "label": "Gunshot, gunfire",
+    "confidence": 0.43086257576942444
+  },
+  {
+    "time": 89.5,
+    "label": "Boat, Water vehicle",
+    "confidence": 0.14722424745559692
+  },
+  {
+    "time": 90.0,
+    "label": "Slosh",
+    "confidence": 0.2515529692173004
+  },
+  {
+    "time": 90.5,
+    "label": "Music",
+    "confidence": 0.20593644678592682
+  },
+  {
+    "time": 91.0,
+    "label": "Water",
+    "confidence": 0.09457065165042877
+  },
+  {
+    "time": 91.5,
+    "label": "Liquid",
+    "confidence": 0.0917913019657135
+  },
+  {
+    "time": 92.0,
+    "label": "Music",
+    "confidence": 0.35204118490219116
+  },
+  {
+    "time": 92.5,
+    "label": "Music",
+    "confidence": 0.13146157562732697
+  },
+  {
+    "time": 93.0,
+    "label": "Water",
+    "confidence": 0.14166338741779327
+  },
+  {
+    "time": 93.5,
+    "label": "Speech",
+    "confidence": 0.11696060746908188
+  },
+  {
+    "time": 94.0,
+    "label": "Gurgling",
+    "confidence": 0.18266093730926514
+  },
+  {
+    "time": 94.5,
+    "label": "Explosion",
+    "confidence": 0.08984224498271942
+  },
+  {
+    "time": 95.0,
+    "label": "Music",
+    "confidence": 0.43710994720458984
+  },
+  {
+    "time": 95.5,
+    "label": "Music",
+    "confidence": 0.42019081115722656
+  },
+  {
+    "time": 96.0,
+    "label": "Boom",
+    "confidence": 0.12353530526161194
+  },
+  {
+    "time": 96.5,
+    "label": "Music",
+    "confidence": 0.16531358659267426
+  },
+  {
+    "time": 97.0,
+    "label": "Music",
+    "confidence": 0.45459458231925964
+  },
+  {
+    "time": 97.5,
+    "label": "Music",
+    "confidence": 0.4855889081954956
+  },
+  {
+    "time": 98.0,
+    "label": "Music",
+    "confidence": 0.8312029242515564
+  },
+  {
+    "time": 98.5,
+    "label": "Music",
+    "confidence": 0.17185015976428986
+  },
+  {
+    "time": 99.0,
+    "label": "Sliding door",
+    "confidence": 0.2300078421831131
+  },
+  {
+    "time": 99.5,
+    "label": "Vehicle",
+    "confidence": 0.276617169380188
+  },
+  {
+    "time": 100.0,
+    "label": "Vehicle",
+    "confidence": 0.11376606673002243
+  },
+  {
+    "time": 100.5,
+    "label": "Vehicle",
+    "confidence": 0.18885359168052673
+  },
+  {
+    "time": 101.0,
+    "label": "Speech",
+    "confidence": 0.12141686677932739
+  },
+  {
+    "time": 101.5,
+    "label": "Glass",
+    "confidence": 0.1838410198688507
+  },
+  {
+    "time": 102.0,
+    "label": "Boat, Water vehicle",
+    "confidence": 0.2220887988805771
+  },
+  {
+    "time": 102.5,
+    "label": "Vehicle",
+    "confidence": 0.19421645998954773
+  },
+  {
+    "time": 103.0,
+    "label": "Speech",
+    "confidence": 0.09185463190078735
+  },
+  {
+    "time": 103.5,
+    "label": "Vehicle",
+    "confidence": 0.1760128140449524
+  },
+  {
+    "time": 104.0,
+    "label": "Basketball bounce",
+    "confidence": 0.2482757717370987
+  },
+  {
+    "time": 104.5,
+    "label": "Vehicle",
+    "confidence": 0.19648270308971405
+  },
+  {
+    "time": 105.0,
+    "label": "Vehicle",
+    "confidence": 0.2919725477695465
+  },
+  {
+    "time": 105.5,
+    "label": "Vehicle",
+    "confidence": 0.2221783697605133
+  },
+  {
+    "time": 106.0,
+    "label": "Boom",
+    "confidence": 0.11441025137901306
+  },
+  {
+    "time": 106.5,
+    "label": "Vehicle",
+    "confidence": 0.1837037205696106
+  },
+  {
+    "time": 107.0,
+    "label": "Vehicle",
+    "confidence": 0.35788893699645996
+  },
+  {
+    "time": 107.5,
+    "label": "Vehicle",
+    "confidence": 0.32825058698654175
+  },
+  {
+    "time": 108.0,
+    "label": "Vehicle",
+    "confidence": 0.22045722603797913
+  },
+  {
+    "time": 108.5,
+    "label": "Explosion",
+    "confidence": 0.18879012763500214
+  },
+  {
+    "time": 109.0,
+    "label": "Vehicle",
+    "confidence": 0.5039825439453125
+  },
+  {
+    "time": 109.5,
+    "label": "Vehicle",
+    "confidence": 0.5493093132972717
+  },
+  {
+    "time": 110.0,
+    "label": "Vehicle",
+    "confidence": 0.5347431302070618
+  },
+  {
+    "time": 110.5,
+    "label": "Splash, splatter",
+    "confidence": 0.18117818236351013
+  },
+  {
+    "time": 111.0,
+    "label": "Slosh",
+    "confidence": 0.29587113857269287
+  },
+  {
+    "time": 111.5,
+    "label": "Eruption",
+    "confidence": 0.3193862736225128
+  },
+  {
+    "time": 112.0,
+    "label": "Speech",
+    "confidence": 0.846477210521698
+  },
+  {
+    "time": 112.5,
+    "label": "Speech",
+    "confidence": 0.9031801819801331
+  },
+  {
+    "time": 113.0,
+    "label": "Speech",
+    "confidence": 0.9397327899932861
+  },
+  {
+    "time": 113.5,
+    "label": "Speech",
+    "confidence": 0.9962444305419922
+  },
+  {
+    "time": 114.0,
+    "label": "Speech",
+    "confidence": 0.9817084074020386
+  },
+  {
+    "time": 114.5,
+    "label": "Speech",
+    "confidence": 0.9828782081604004
+  },
+  {
+    "time": 115.0,
+    "label": "Speech",
+    "confidence": 0.9927824139595032
+  },
+  {
+    "time": 115.5,
+    "label": "Speech",
+    "confidence": 0.9949169754981995
+  },
+  {
+    "time": 116.0,
+    "label": "Speech",
+    "confidence": 0.49570178985595703
+  },
+  {
+    "time": 116.5,
+    "label": "Sound effect",
+    "confidence": 0.1770334243774414
+  },
+  {
+    "time": 117.0,
+    "label": "Sound effect",
+    "confidence": 0.19819879531860352
+  },
+  {
+    "time": 117.5,
+    "label": "Speech",
+    "confidence": 0.98941570520401
+  },
+  {
+    "time": 118.0,
+    "label": "Speech",
+    "confidence": 0.9994317293167114
+  },
+  {
+    "time": 118.5,
+    "label": "Speech",
+    "confidence": 0.5006371140480042
+  },
+  {
+    "time": 119.0,
+    "label": "Silence",
+    "confidence": 0.9999995827674866
+  },
+  {
+    "time": 119.5,
+    "label": "Silence",
+    "confidence": 1.0
+  },
+  {
+    "time": 120.0,
+    "label": "Silence",
+    "confidence": 1.0
+  },
+  {
+    "time": 120.5,
+    "label": "Speech",
+    "confidence": 0.9744728803634644
+  },
+  {
+    "time": 121.0,
+    "label": "Speech",
+    "confidence": 0.9813257455825806
+  },
+  {
+    "time": 121.5,
+    "label": "Speech",
+    "confidence": 0.49091941118240356
+  },
+  {
+    "time": 122.0,
+    "label": "Whoosh, swoosh, swish",
+    "confidence": 0.136570006608963
+  },
+  {
+    "time": 122.5,
+    "label": "Music",
+    "confidence": 0.46014997363090515
+  },
+  {
+    "time": 123.0,
+    "label": "Music",
+    "confidence": 0.8198555707931519
+  },
+  {
+    "time": 123.5,
+    "label": "Music",
+    "confidence": 0.6938440799713135
+  },
+  {
+    "time": 124.0,
+    "label": "Music",
+    "confidence": 0.7341647148132324
+  },
+  {
+    "time": 124.5,
+    "label": "Music",
+    "confidence": 0.45404052734375
+  },
+  {
+    "time": 125.0,
+    "label": "Music",
+    "confidence": 0.43201082944869995
+  },
+  {
+    "time": 125.5,
+    "label": "Ice cream truck, ice cream van",
+    "confidence": 0.36739665269851685
+  },
+  {
+    "time": 126.0,
+    "label": "Vehicle",
+    "confidence": 0.3937176465988159
+  },
+  {
+    "time": 126.5,
+    "label": "Vehicle",
+    "confidence": 0.3906310200691223
+  },
+  {
+    "time": 127.0,
+    "label": "Music",
+    "confidence": 0.25916579365730286
+  },
+  {
+    "time": 127.5,
+    "label": "Vehicle",
+    "confidence": 0.08829539269208908
+  },
+  {
+    "time": 128.0,
+    "label": "Boat, Water vehicle",
+    "confidence": 0.24845004081726074
+  },
+  {
+    "time": 128.5,
+    "label": "Water",
+    "confidence": 0.1541748344898224
+  },
+  {
+    "time": 129.0,
+    "label": "Eruption",
+    "confidence": 0.25637540221214294
+  },
+  {
+    "time": 129.5,
+    "label": "Vehicle",
+    "confidence": 0.2827739417552948
+  },
+  {
+    "time": 130.0,
+    "label": "Vehicle",
+    "confidence": 0.30564212799072266
+  },
+  {
+    "time": 130.5,
+    "label": "Whoosh, swoosh, swish",
+    "confidence": 0.1286834180355072
+  },
+  {
+    "time": 131.0,
+    "label": "Silence",
+    "confidence": 0.5084331035614014
+  }
+]

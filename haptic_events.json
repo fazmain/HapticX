@@ -1,0 +1,1157 @@
+[
+  {
+    "time": 0.13931972789115646,
+    "type": "transient",
+    "intensity": 0.17804941534996033
+  },
+  {
+    "time": 1.1029478458049886,
+    "type": "transient",
+    "intensity": 0.1839391142129898
+  },
+  {
+    "time": 1.2654875283446712,
+    "type": "transient",
+    "intensity": 0.17115698754787445
+  },
+  {
+    "time": 1.7066666666666668,
+    "type": "transient",
+    "intensity": 0.17394442856311798
+  },
+  {
+    "time": 9.97297052154195,
+    "type": "transient",
+    "intensity": 0.2372768223285675
+  },
+  {
+    "time": 10.158730158730158,
+    "type": "transient",
+    "intensity": 0.23652492463588715
+  },
+  {
+    "time": 10.309659863945578,
+    "type": "transient",
+    "intensity": 0.21128015220165253
+  },
+  {
+    "time": 10.611519274376418,
+    "type": "transient",
+    "intensity": 0.20971566438674927
+  },
+  {
+    "time": 10.762448979591836,
+    "type": "transient",
+    "intensity": 0.17128926515579224
+  },
+  {
+    "time": 10.971428571428572,
+    "type": "transient",
+    "intensity": 0.17459839582443237
+  },
+  {
+    "time": 11.110748299319727,
+    "type": "transient",
+    "intensity": 0.1804712563753128
+  },
+  {
+    "time": 11.284897959183674,
+    "type": "transient",
+    "intensity": 0.19404198229312897
+  },
+  {
+    "time": 11.551927437641723,
+    "type": "transient",
+    "intensity": 0.1990486979484558
+  },
+  {
+    "time": 11.760907029478458,
+    "type": "transient",
+    "intensity": 0.20629563927650452
+  },
+  {
+    "time": 11.877006802721088,
+    "type": "transient",
+    "intensity": 0.18722130358219147
+  },
+  {
+    "time": 12.062766439909296,
+    "type": "transient",
+    "intensity": 0.2238989770412445
+  },
+  {
+    "time": 12.445895691609977,
+    "type": "transient",
+    "intensity": 0.17753145098686218
+  },
+  {
+    "time": 12.654875283446712,
+    "type": "transient",
+    "intensity": 0.17599545419216156
+  },
+  {
+    "time": 13.339863945578232,
+    "type": "transient",
+    "intensity": 0.1840936839580536
+  },
+  {
+    "time": 20.44517006802721,
+    "type": "transient",
+    "intensity": 0.28108730912208557
+  },
+  {
+    "time": 20.572879818594103,
+    "type": "transient",
+    "intensity": 0.22994546592235565
+  },
+  {
+    "time": 20.688979591836734,
+    "type": "transient",
+    "intensity": 0.19129547476768494
+  },
+  {
+    "time": 20.897959183673468,
+    "type": "transient",
+    "intensity": 0.2120039314031601
+  },
+  {
+    "time": 21.199818594104308,
+    "type": "transient",
+    "intensity": 0.18991543352603912
+  },
+  {
+    "time": 22.11700680272109,
+    "type": "transient",
+    "intensity": 0.1818617284297943
+  },
+  {
+    "time": 22.256326530612245,
+    "type": "transient",
+    "intensity": 0.184188574552536
+  },
+  {
+    "time": 22.3956462585034,
+    "type": "transient",
+    "intensity": 0.18559089303016663
+  },
+  {
+    "time": 22.801995464852606,
+    "type": "transient",
+    "intensity": 0.1826055645942688
+  },
+  {
+    "time": 30.48780045351474,
+    "type": "transient",
+    "intensity": 0.20041073858737946
+  },
+  {
+    "time": 30.627120181405896,
+    "type": "transient",
+    "intensity": 0.230285182595253
+  },
+  {
+    "time": 30.847709750566892,
+    "type": "transient",
+    "intensity": 0.18553556501865387
+  },
+  {
+    "time": 31.312108843537416,
+    "type": "transient",
+    "intensity": 0.1985938996076584
+  },
+  {
+    "time": 31.532698412698412,
+    "type": "transient",
+    "intensity": 0.1794477254152298
+  },
+  {
+    "time": 31.753287981859412,
+    "type": "transient",
+    "intensity": 0.1871260553598404
+  },
+  {
+    "time": 31.86938775510204,
+    "type": "transient",
+    "intensity": 0.1770264357328415
+  },
+  {
+    "time": 32.066757369614514,
+    "type": "transient",
+    "intensity": 0.17179332673549652
+  },
+  {
+    "time": 32.41505668934241,
+    "type": "transient",
+    "intensity": 0.19814532995224
+  },
+  {
+    "time": 32.565986394557825,
+    "type": "transient",
+    "intensity": 0.1769644170999527
+  },
+  {
+    "time": 32.90267573696145,
+    "type": "transient",
+    "intensity": 0.18987755477428436
+  },
+  {
+    "time": 33.425124716553285,
+    "type": "transient",
+    "intensity": 0.17334911227226257
+  },
+  {
+    "time": 33.55283446712018,
+    "type": "transient",
+    "intensity": 0.2111385613679886
+  },
+  {
+    "time": 33.68054421768707,
+    "type": "transient",
+    "intensity": 0.2537587285041809
+  },
+  {
+    "time": 33.7966439909297,
+    "type": "transient",
+    "intensity": 0.20964089035987854
+  },
+  {
+    "time": 33.935963718820865,
+    "type": "transient",
+    "intensity": 0.19249507784843445
+  },
+  {
+    "time": 34.12172335600907,
+    "type": "transient",
+    "intensity": 0.2511732876300812
+  },
+  {
+    "time": 34.261043083900226,
+    "type": "transient",
+    "intensity": 0.17951326072216034
+  },
+  {
+    "time": 34.44680272108844,
+    "type": "transient",
+    "intensity": 0.2520970404148102
+  },
+  {
+    "time": 34.59773242630386,
+    "type": "transient",
+    "intensity": 0.22894345223903656
+  },
+  {
+    "time": 34.73705215419501,
+    "type": "transient",
+    "intensity": 0.20634937286376953
+  },
+  {
+    "time": 34.853151927437644,
+    "type": "transient",
+    "intensity": 0.24587638676166534
+  },
+  {
+    "time": 35.03891156462585,
+    "type": "transient",
+    "intensity": 0.2210606187582016
+  },
+  {
+    "time": 35.178231292517005,
+    "type": "transient",
+    "intensity": 0.22242490947246552
+  },
+  {
+    "time": 35.34077097505669,
+    "type": "transient",
+    "intensity": 0.2082112580537796
+  },
+  {
+    "time": 35.468480725623586,
+    "type": "transient",
+    "intensity": 0.19974009692668915
+  },
+  {
+    "time": 35.59619047619048,
+    "type": "transient",
+    "intensity": 0.18996359407901764
+  },
+  {
+    "time": 35.77034013605442,
+    "type": "transient",
+    "intensity": 0.17282763123512268
+  },
+  {
+    "time": 35.944489795918365,
+    "type": "transient",
+    "intensity": 0.174981489777565
+  },
+  {
+    "time": 37.268027210884355,
+    "type": "transient",
+    "intensity": 0.19236896932125092
+  },
+  {
+    "time": 37.4421768707483,
+    "type": "transient",
+    "intensity": 0.23911167681217194
+  },
+  {
+    "time": 37.61632653061225,
+    "type": "transient",
+    "intensity": 0.2515943944454193
+  },
+  {
+    "time": 37.74403628117914,
+    "type": "transient",
+    "intensity": 0.18053953349590302
+  },
+  {
+    "time": 37.860136054421766,
+    "type": "transient",
+    "intensity": 0.2729935944080353
+  },
+  {
+    "time": 37.99945578231293,
+    "type": "transient",
+    "intensity": 0.2484699934720993
+  },
+  {
+    "time": 38.16199546485261,
+    "type": "transient",
+    "intensity": 0.28200018405914307
+  },
+  {
+    "time": 38.31292517006803,
+    "type": "transient",
+    "intensity": 0.28794988989830017
+  },
+  {
+    "time": 38.44063492063492,
+    "type": "transient",
+    "intensity": 0.21102580428123474
+  },
+  {
+    "time": 38.61478458049886,
+    "type": "transient",
+    "intensity": 0.2344500571489334
+  },
+  {
+    "time": 38.75410430839002,
+    "type": "transient",
+    "intensity": 0.19202812016010284
+  },
+  {
+    "time": 38.905034013605444,
+    "type": "transient",
+    "intensity": 0.19121244549751282
+  },
+  {
+    "time": 58.4562358276644,
+    "type": "transient",
+    "intensity": 0.18274104595184326
+  },
+  {
+    "time": 58.583945578231294,
+    "type": "transient",
+    "intensity": 0.20571309328079224
+  },
+  {
+    "time": 60.63891156462585,
+    "type": "transient",
+    "intensity": 0.23963527381420135
+  },
+  {
+    "time": 60.78984126984127,
+    "type": "transient",
+    "intensity": 0.24076887965202332
+  },
+  {
+    "time": 60.91755102040816,
+    "type": "transient",
+    "intensity": 0.20799943804740906
+  },
+  {
+    "time": 61.1265306122449,
+    "type": "transient",
+    "intensity": 0.19998939335346222
+  },
+  {
+    "time": 61.30068027210884,
+    "type": "transient",
+    "intensity": 0.21280860900878906
+  },
+  {
+    "time": 61.52126984126984,
+    "type": "transient",
+    "intensity": 0.243597611784935
+  },
+  {
+    "time": 61.648979591836735,
+    "type": "transient",
+    "intensity": 0.2030857354402542
+  },
+  {
+    "time": 61.765079365079366,
+    "type": "transient",
+    "intensity": 0.21366730332374573
+  },
+  {
+    "time": 61.92761904761905,
+    "type": "transient",
+    "intensity": 0.20445354282855988
+  },
+  {
+    "time": 62.11337868480726,
+    "type": "transient",
+    "intensity": 0.19393345713615417
+  },
+  {
+    "time": 64.35410430839002,
+    "type": "transient",
+    "intensity": 0.18847431242465973
+  },
+  {
+    "time": 64.62113378684808,
+    "type": "transient",
+    "intensity": 0.3276916444301605
+  },
+  {
+    "time": 64.7372335600907,
+    "type": "transient",
+    "intensity": 0.18678785860538483
+  },
+  {
+    "time": 64.8649433106576,
+    "type": "transient",
+    "intensity": 0.24245890974998474
+  },
+  {
+    "time": 65.03909297052154,
+    "type": "transient",
+    "intensity": 0.28454408049583435
+  },
+  {
+    "time": 65.19002267573696,
+    "type": "transient",
+    "intensity": 0.26989734172821045
+  },
+  {
+    "time": 65.43383219954649,
+    "type": "transient",
+    "intensity": 0.23075373470783234
+  },
+  {
+    "time": 65.677641723356,
+    "type": "transient",
+    "intensity": 0.18952606618404388
+  },
+  {
+    "time": 65.84018140589569,
+    "type": "transient",
+    "intensity": 0.19226862490177155
+  },
+  {
+    "time": 66.01433106575963,
+    "type": "transient",
+    "intensity": 0.1872173249721527
+  },
+  {
+    "time": 66.17687074829932,
+    "type": "transient",
+    "intensity": 0.17444972693920135
+  },
+  {
+    "time": 66.30458049886622,
+    "type": "transient",
+    "intensity": 0.19609087705612183
+  },
+  {
+    "time": 66.50195011337868,
+    "type": "transient",
+    "intensity": 0.1868053376674652
+  },
+  {
+    "time": 66.64126984126985,
+    "type": "transient",
+    "intensity": 0.19402362406253815
+  },
+  {
+    "time": 67.83709750566894,
+    "type": "transient",
+    "intensity": 0.292515367269516
+  },
+  {
+    "time": 68.24344671201814,
+    "type": "transient",
+    "intensity": 0.256943941116333
+  },
+  {
+    "time": 68.45242630385488,
+    "type": "transient",
+    "intensity": 0.22576524317264557
+  },
+  {
+    "time": 68.62657596371882,
+    "type": "transient",
+    "intensity": 0.21052241325378418
+  },
+  {
+    "time": 68.77750566893424,
+    "type": "transient",
+    "intensity": 0.17466692626476288
+  },
+  {
+    "time": 69.24190476190476,
+    "type": "transient",
+    "intensity": 0.17053371667861938
+  },
+  {
+    "time": 69.35800453514739,
+    "type": "transient",
+    "intensity": 0.19138136506080627
+  },
+  {
+    "time": 69.53215419501134,
+    "type": "transient",
+    "intensity": 0.2530481517314911
+  },
+  {
+    "time": 69.75274376417234,
+    "type": "transient",
+    "intensity": 0.2710088789463043
+  },
+  {
+    "time": 69.93850340136055,
+    "type": "transient",
+    "intensity": 0.2567276060581207
+  },
+  {
+    "time": 70.18231292517007,
+    "type": "transient",
+    "intensity": 0.20737594366073608
+  },
+  {
+    "time": 70.4261224489796,
+    "type": "transient",
+    "intensity": 0.17984995245933533
+  },
+  {
+    "time": 70.78603174603174,
+    "type": "transient",
+    "intensity": 0.20438160002231598
+  },
+  {
+    "time": 76.28916099773242,
+    "type": "transient",
+    "intensity": 0.1761731505393982
+  },
+  {
+    "time": 76.73034013605442,
+    "type": "transient",
+    "intensity": 0.17062386870384216
+  },
+  {
+    "time": 79.58639455782313,
+    "type": "transient",
+    "intensity": 0.17307201027870178
+  },
+  {
+    "time": 79.83020408163266,
+    "type": "transient",
+    "intensity": 0.21725037693977356
+  },
+  {
+    "time": 79.9695238095238,
+    "type": "transient",
+    "intensity": 0.1972963511943817
+  },
+  {
+    "time": 80.16689342403627,
+    "type": "transient",
+    "intensity": 0.18652699887752533
+  },
+  {
+    "time": 80.43392290249433,
+    "type": "transient",
+    "intensity": 0.19980937242507935
+  },
+  {
+    "time": 80.55002267573695,
+    "type": "transient",
+    "intensity": 0.17885679006576538
+  },
+  {
+    "time": 80.86349206349206,
+    "type": "transient",
+    "intensity": 0.19349795579910278
+  },
+  {
+    "time": 81.76907029478458,
+    "type": "transient",
+    "intensity": 0.18968454003334045
+  },
+  {
+    "time": 81.97804988662132,
+    "type": "transient",
+    "intensity": 0.19035550951957703
+  },
+  {
+    "time": 82.19863945578231,
+    "type": "transient",
+    "intensity": 0.21566687524318695
+  },
+  {
+    "time": 82.3263492063492,
+    "type": "transient",
+    "intensity": 0.23012283444404602
+  },
+  {
+    "time": 82.4888888888889,
+    "type": "transient",
+    "intensity": 0.21930833160877228
+  },
+  {
+    "time": 82.66303854875284,
+    "type": "transient",
+    "intensity": 0.22810976207256317
+  },
+  {
+    "time": 82.84879818594105,
+    "type": "transient",
+    "intensity": 0.20302097499370575
+  },
+  {
+    "time": 83.11582766439909,
+    "type": "transient",
+    "intensity": 0.23341064155101776
+  },
+  {
+    "time": 83.28997732426303,
+    "type": "transient",
+    "intensity": 0.225935697555542
+  },
+  {
+    "time": 83.53378684807257,
+    "type": "transient",
+    "intensity": 0.24040725827217102
+  },
+  {
+    "time": 83.80081632653061,
+    "type": "transient",
+    "intensity": 0.2383408099412918
+  },
+  {
+    "time": 83.9285260770975,
+    "type": "transient",
+    "intensity": 0.19780434668064117
+  },
+  {
+    "time": 84.14911564625851,
+    "type": "transient",
+    "intensity": 0.21823953092098236
+  },
+  {
+    "time": 84.39292517006803,
+    "type": "transient",
+    "intensity": 0.17887486517429352
+  },
+  {
+    "time": 84.76444444444445,
+    "type": "transient",
+    "intensity": 0.17046211659908295
+  },
+  {
+    "time": 85.48426303854875,
+    "type": "transient",
+    "intensity": 0.237193763256073
+  },
+  {
+    "time": 87.5740589569161,
+    "type": "transient",
+    "intensity": 0.18251663446426392
+  },
+  {
+    "time": 88.02684807256236,
+    "type": "transient",
+    "intensity": 0.245215505361557
+  },
+  {
+    "time": 88.43319727891156,
+    "type": "transient",
+    "intensity": 0.18474139273166656
+  },
+  {
+    "time": 88.63056689342403,
+    "type": "transient",
+    "intensity": 0.1788049191236496
+  },
+  {
+    "time": 88.89759637188209,
+    "type": "transient",
+    "intensity": 0.17823126912117004
+  },
+  {
+    "time": 89.10657596371883,
+    "type": "transient",
+    "intensity": 0.17077744007110596
+  },
+  {
+    "time": 89.29233560090702,
+    "type": "transient",
+    "intensity": 0.19482572376728058
+  },
+  {
+    "time": 89.55936507936508,
+    "type": "transient",
+    "intensity": 0.17682276666164398
+  },
+  {
+    "time": 89.73351473922902,
+    "type": "transient",
+    "intensity": 0.2568734884262085
+  },
+  {
+    "time": 89.95410430839003,
+    "type": "transient",
+    "intensity": 0.20606833696365356
+  },
+  {
+    "time": 90.36045351473923,
+    "type": "transient",
+    "intensity": 0.20910724997520447
+  },
+  {
+    "time": 90.60426303854875,
+    "type": "transient",
+    "intensity": 0.1770847737789154
+  },
+  {
+    "time": 91.1267120181406,
+    "type": "transient",
+    "intensity": 0.20212550461292267
+  },
+  {
+    "time": 91.50984126984127,
+    "type": "transient",
+    "intensity": 0.21262896060943604
+  },
+  {
+    "time": 91.77687074829932,
+    "type": "transient",
+    "intensity": 0.17261742055416107
+  },
+  {
+    "time": 91.91619047619048,
+    "type": "transient",
+    "intensity": 0.17217731475830078
+  },
+  {
+    "time": 92.81015873015873,
+    "type": "transient",
+    "intensity": 0.19086718559265137
+  },
+  {
+    "time": 93.27455782312926,
+    "type": "transient",
+    "intensity": 0.2136363685131073
+  },
+  {
+    "time": 93.84344671201814,
+    "type": "transient",
+    "intensity": 0.17504830658435822
+  },
+  {
+    "time": 94.31945578231293,
+    "type": "transient",
+    "intensity": 0.18000712990760803
+  },
+  {
+    "time": 94.4819954648526,
+    "type": "transient",
+    "intensity": 0.22889859974384308
+  },
+  {
+    "time": 94.6097052154195,
+    "type": "transient",
+    "intensity": 0.19868506491184235
+  },
+  {
+    "time": 94.73741496598639,
+    "type": "transient",
+    "intensity": 0.18014438450336456
+  },
+  {
+    "time": 94.93478458049887,
+    "type": "transient",
+    "intensity": 0.20570985972881317
+  },
+  {
+    "time": 95.16698412698413,
+    "type": "transient",
+    "intensity": 0.1724770963191986
+  },
+  {
+    "time": 95.4572335600907,
+    "type": "transient",
+    "intensity": 0.18605957925319672
+  },
+  {
+    "time": 95.63138321995464,
+    "type": "transient",
+    "intensity": 0.19831588864326477
+  },
+  {
+    "time": 95.82875283446712,
+    "type": "transient",
+    "intensity": 0.219195157289505
+  },
+  {
+    "time": 95.94485260770975,
+    "type": "transient",
+    "intensity": 0.18655560910701752
+  },
+  {
+    "time": 96.16544217687076,
+    "type": "transient",
+    "intensity": 0.17151257395744324
+  },
+  {
+    "time": 96.42086167800454,
+    "type": "transient",
+    "intensity": 0.19792747497558594
+  },
+  {
+    "time": 96.53696145124717,
+    "type": "transient",
+    "intensity": 0.1749642938375473
+  },
+  {
+    "time": 96.67628117913833,
+    "type": "transient",
+    "intensity": 0.2537563741207123
+  },
+  {
+    "time": 96.79238095238095,
+    "type": "transient",
+    "intensity": 0.24399623274803162
+  },
+  {
+    "time": 97.00136054421769,
+    "type": "transient",
+    "intensity": 0.21490876376628876
+  },
+  {
+    "time": 97.15229024943311,
+    "type": "transient",
+    "intensity": 0.2248341292142868
+  },
+  {
+    "time": 97.32643990929705,
+    "type": "transient",
+    "intensity": 0.21380968391895294
+  },
+  {
+    "time": 97.45414965986394,
+    "type": "transient",
+    "intensity": 0.18359500169754028
+  },
+  {
+    "time": 97.58185941043084,
+    "type": "transient",
+    "intensity": 0.1998864710330963
+  },
+  {
+    "time": 97.82566893424037,
+    "type": "transient",
+    "intensity": 0.20852583646774292
+  },
+  {
+    "time": 98.15074829931973,
+    "type": "transient",
+    "intensity": 0.2050561010837555
+  },
+  {
+    "time": 98.3132879818594,
+    "type": "transient",
+    "intensity": 0.18902306258678436
+  },
+  {
+    "time": 99.42784580498866,
+    "type": "transient",
+    "intensity": 0.22254328429698944
+  },
+  {
+    "time": 99.56716553287981,
+    "type": "transient",
+    "intensity": 0.22539877891540527
+  },
+  {
+    "time": 99.68326530612245,
+    "type": "transient",
+    "intensity": 0.2392425239086151
+  },
+  {
+    "time": 99.8225850340136,
+    "type": "transient",
+    "intensity": 0.2532750964164734
+  },
+  {
+    "time": 99.95029478458049,
+    "type": "transient",
+    "intensity": 0.21063746511936188
+  },
+  {
+    "time": 100.37986394557824,
+    "type": "transient",
+    "intensity": 0.20822635293006897
+  },
+  {
+    "time": 100.65850340136055,
+    "type": "transient",
+    "intensity": 0.19603748619556427
+  },
+  {
+    "time": 100.82104308390022,
+    "type": "transient",
+    "intensity": 0.21770107746124268
+  },
+  {
+    "time": 101.08807256235828,
+    "type": "transient",
+    "intensity": 0.17788326740264893
+  },
+  {
+    "time": 102.02848072562358,
+    "type": "transient",
+    "intensity": 0.26933860778808594
+  },
+  {
+    "time": 102.2142403628118,
+    "type": "transient",
+    "intensity": 0.23229138553142548
+  },
+  {
+    "time": 102.34195011337869,
+    "type": "transient",
+    "intensity": 0.2705112397670746
+  },
+  {
+    "time": 102.51609977324263,
+    "type": "transient",
+    "intensity": 0.27223441004753113
+  },
+  {
+    "time": 102.74829931972789,
+    "type": "transient",
+    "intensity": 0.2134665846824646
+  },
+  {
+    "time": 102.92244897959183,
+    "type": "transient",
+    "intensity": 0.18221303820610046
+  },
+  {
+    "time": 103.05015873015873,
+    "type": "transient",
+    "intensity": 0.2595647871494293
+  },
+  {
+    "time": 103.32879818594104,
+    "type": "transient",
+    "intensity": 0.18027856945991516
+  },
+  {
+    "time": 103.49133786848073,
+    "type": "transient",
+    "intensity": 0.23223541676998138
+  },
+  {
+    "time": 103.65387755102041,
+    "type": "transient",
+    "intensity": 0.22337478399276733
+  },
+  {
+    "time": 104.71038548752834,
+    "type": "transient",
+    "intensity": 0.2343776971101761
+  },
+  {
+    "time": 104.86131519274376,
+    "type": "transient",
+    "intensity": 0.1870543658733368
+  },
+  {
+    "time": 105.05868480725624,
+    "type": "transient",
+    "intensity": 0.2669958174228668
+  },
+  {
+    "time": 105.17478458049887,
+    "type": "transient",
+    "intensity": 0.2802371680736542
+  },
+  {
+    "time": 105.30249433106576,
+    "type": "transient",
+    "intensity": 0.22331510484218597
+  },
+  {
+    "time": 105.41859410430838,
+    "type": "transient",
+    "intensity": 0.2121119350194931
+  },
+  {
+    "time": 105.54630385487529,
+    "type": "transient",
+    "intensity": 0.20603080093860626
+  },
+  {
+    "time": 105.73206349206349,
+    "type": "transient",
+    "intensity": 0.20351387560367584
+  },
+  {
+    "time": 105.99909297052154,
+    "type": "transient",
+    "intensity": 0.20194628834724426
+  },
+  {
+    "time": 106.16163265306122,
+    "type": "transient",
+    "intensity": 0.20835861563682556
+  },
+  {
+    "time": 106.3241723356009,
+    "type": "transient",
+    "intensity": 0.18724480271339417
+  },
+  {
+    "time": 107.41551020408163,
+    "type": "transient",
+    "intensity": 0.25759148597717285
+  },
+  {
+    "time": 107.62448979591836,
+    "type": "transient",
+    "intensity": 0.2429075837135315
+  },
+  {
+    "time": 107.82185941043083,
+    "type": "transient",
+    "intensity": 0.2568435072898865
+  },
+  {
+    "time": 107.97278911564626,
+    "type": "transient",
+    "intensity": 0.23227247595787048
+  },
+  {
+    "time": 108.10049886621316,
+    "type": "transient",
+    "intensity": 0.21729302406311035
+  },
+  {
+    "time": 108.21659863945578,
+    "type": "transient",
+    "intensity": 0.17902866005897522
+  },
+  {
+    "time": 108.402358276644,
+    "type": "transient",
+    "intensity": 0.2158975601196289
+  },
+  {
+    "time": 108.54167800453514,
+    "type": "transient",
+    "intensity": 0.18795566260814667
+  },
+  {
+    "time": 108.65777777777778,
+    "type": "transient",
+    "intensity": 0.20827364921569824
+  },
+  {
+    "time": 108.82031746031745,
+    "type": "transient",
+    "intensity": 0.2342613786458969
+  },
+  {
+    "time": 108.99446712018141,
+    "type": "transient",
+    "intensity": 0.23301473259925842
+  },
+  {
+    "time": 109.20344671201813,
+    "type": "transient",
+    "intensity": 0.21958225965499878
+  },
+  {
+    "time": 109.33115646258503,
+    "type": "transient",
+    "intensity": 0.18551209568977356
+  },
+  {
+    "time": 110.55020408163266,
+    "type": "transient",
+    "intensity": 0.17187362909317017
+  },
+  {
+    "time": 110.67791383219955,
+    "type": "transient",
+    "intensity": 0.1749681979417801
+  },
+  {
+    "time": 110.91011337868481,
+    "type": "transient",
+    "intensity": 0.2038579285144806
+  },
+  {
+    "time": 111.08426303854876,
+    "type": "transient",
+    "intensity": 0.2069500982761383
+  },
+  {
+    "time": 111.2584126984127,
+    "type": "transient",
+    "intensity": 0.2214760035276413
+  },
+  {
+    "time": 122.92643990929706,
+    "type": "transient",
+    "intensity": 0.2076912671327591
+  },
+  {
+    "time": 123.33278911564626,
+    "type": "transient",
+    "intensity": 0.17041745781898499
+  },
+  {
+    "time": 123.47210884353741,
+    "type": "transient",
+    "intensity": 0.18456226587295532
+  },
+  {
+    "time": 124.41251700680272,
+    "type": "transient",
+    "intensity": 0.17523521184921265
+  },
+  {
+    "time": 128.35990929705216,
+    "type": "transient",
+    "intensity": 0.2292853444814682
+  },
+  {
+    "time": 128.60371882086167,
+    "type": "transient",
+    "intensity": 0.18380007147789001
+  },
+  {
+    "time": 128.7198185941043,
+    "type": "transient",
+    "intensity": 0.1828233152627945
+  },
+  {
+    "time": 128.85913832199546,
+    "type": "transient",
+    "intensity": 0.19852504134178162
+  }
+]
