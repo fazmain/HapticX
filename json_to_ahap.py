@@ -2,7 +2,7 @@
 
 import json
 
-def make_ahap(haptic_events, output_file="pattern.ahap"):
+def make_ahap(haptic_events, output_file="engine_gemini_test.ahap"):
     pattern = {
         "Pattern": [
             {

@@ -2,7 +2,7 @@
 
 import ffmpeg
 
-video_file = "input2.mp4"
+video_file = "input.mp4"
 audio_file = "audio.wav"
 
 # Extract audio using ffmpeg
