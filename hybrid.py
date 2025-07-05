@@ -10,7 +10,7 @@ output_ahap = 'hybrid.ahap'
 frame_length = 2048    # ~50ms at 44.1kHz
 hop_length = 1024      # ~25ms
 
-MASK_LABELS = ['Speech', 'Music', 'Silence']  # Mask these
+MASK_LABELS = ['Speech', 'Silence']  # Mask these
 
 # ---- 1. Load audio and extract features ----
 y, sr = librosa.load(audio_file, sr=44100, mono=True)
